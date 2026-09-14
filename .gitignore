@@ -1,0 +1,15 @@
+# IDE files
+.vscode/
+
+# Built files
+build/
+*.lst
+
+# Binairies
+*.elf
+*.nds
+*.o
+*.objdump
+*.com
+*.bin
+*.exe
